@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS and Angular**
 
-- 💬 Ask me about **JavaScript ,SQL**
+- 💬 Ask me about **JavaScript ,SQL, Java , Cpp, Php**
 
 - 📫 How to reach me **yenishradadiya@gmail.com**
 
